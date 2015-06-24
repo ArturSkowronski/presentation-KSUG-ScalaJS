@@ -4,5 +4,14 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+*.cache
 css/reveal.min.css
 js/reveal.min.js
+# created by git-ignore
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
